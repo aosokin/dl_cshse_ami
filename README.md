@@ -44,7 +44,7 @@
 
 В рамках курса мы использовали python 3.6, [pytorch v0.3.0](https://github.com/pytorch/pytorch/releases/tag/v0.3.0), [torchvision v0.2.0](https://github.com/pytorch/vision/releases/tag/v0.2.0). Поддержка других библиотек и других версий python и pytorch не осуществлялась.
  
-Для настройки библиотек мы рекомендуем использовать менеджер пакетов [Anaconda](https://www.anaconda.com/) (есть для Linux, OS X, Windows). Для установки в Linux и OS X исмотрите инструкции на сайте http://pytorch.org/. 
+Для настройки библиотек мы рекомендуем использовать менеджер пакетов [Anaconda](https://www.anaconda.com/) (есть для Linux, OS X, Windows). Для установки в Linux и OS X смотрите инструкции на сайте http://pytorch.org/. 
 Для установки в Windows на момент курса работали команды `conda install -c peterjc123 pytorch` и `pip install torchvision`.
  
 Также можно использовать Docker (https://hub.docker.com/r/alexeyum/hse_deep_learning/), в котором всё установлено.
