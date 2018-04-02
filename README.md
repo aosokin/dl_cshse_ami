@@ -6,19 +6,19 @@
 Семинаристы: Артем Бабенко, [Алексей Умнов](https://www.hse.ru/org/persons/141880775), Алексей Озерин
 
 ## Программа курса
-* Введение (лекция 1, семинар 1)
+* Введение ([лекция 1](lectures/DL18_lecture1_intro.pdf), [семинар 1](seminars/DL18_seminar1_intro/DL18_seminar1.ipynb))
 * Основные концепции
-  - Механика нейросетей и backprop (лекция 2, семинар 2)
-  - Виды архитектур (лекция 3, семинар 3)
-  - Обучение и регуляризация (лекция 4, семинар 4)
+  - Механика нейросетей и backprop ([лекция 2](lectures/DL18_lecture2_backprop.pdf), [семинар 2](seminars/DL18_seminar2_pytorch/DL18_seminar2.ipynb))
+  - Виды архитектур ([лекция 3](lectures/DL18_lecture3_models.pdf), [семинар 3](seminars/DL18_seminar3_models/DL18_seminar3.ipynb))
+  - Обучение и регуляризация ([лекция 4](lectures/DL18_lecture4_training.pdf), [семинар 4](seminars/DL18_seminar4_training/DL18_seminar4.ipynb))
 * Продвинутые темы
-  - Применения в компьютерном зрении (лекция 5, семинар 5)
-  - Применения для обработки языка (лекция 6, семинар 6)
-  - Adversarial X (лекция 7, семинар 7)
-  - Вероятностные модели (лекция 8, семинар 8)
-  - Дифференцируемое программирование (лекция 9, семинар 9)
-  - Недифференцируемые модели (лекция 10)
-* Приглашенный доклад (лекция 11)
+  - Применения в компьютерном зрении ([лекция 5](lectures/DL18_lecture5_deepvision.pdf), [семинар 5](seminars/DL18_seminar5_deepvision/DL18_seminar5.ipynb))
+  - Применения для обработки языка ([лекция 6](lectures/DL18_lecture6_deepnlp.pdf), [семинар 6](seminars/DL18_seminar6_deepnlp/DL18_seminar6.ipynb))
+  - Adversarial X ([лекция 7](lectures/DL18_lecture7_adversarialX.pdf), [семинар 7](seminars/DL18_seminar7_adversarialX/DL18_seminar7.ipynb))
+  - Вероятностные модели ([лекция 8](lectures/DL18_lecture8_probmodels.pdf), [семинар 8](seminars/DL18_seminar8_probmodels/DL18_seminar8.ipynb))
+  - Дифференцируемое программирование ([лекция 9](lectures/DL18_lecture9_differentiableprogramming.pdf), [семинар 9](seminars/DL18_seminar9_differentiableprogramming/DL18_seminar9.ipynb))
+  - Недифференцируемые модели ([лекция 10](lectures/DL18_lecture10_nondiffnets.pdf))
+* Приглашенный доклад: Борис Янгель о нейросетях в диалоговых системах ([лекция 11](lectures/DL18_invitedTalk_dialogSystems.pdf))
 
 ## Disclaimer
 Курс "Глубинное обучение" разрабатывался не как онлайн-курс, а как классический университетский курс с лекциями и семинарами.
