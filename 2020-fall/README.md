@@ -5,8 +5,10 @@
 
 Семинаристы: [Ирина Сапарина](https://github.com/saparina), [Максим Рябинин](https://www.hse.ru/staff/mryabinin)
 
+[О курсе](lectures/DL20-fall-about.pdf): программа, схема оценки
+
 ## Программа курса
-* Введение
+* Введение (лекция 1: [слайды](lectures/DL20-fall-lecture1-intro.pdf), [видео](https://youtu.be/k3QZU5a1oRA))
 * Основные концепции
   - Механика нейросетей и backprop
   - Виды архитектур
