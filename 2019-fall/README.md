@@ -6,11 +6,11 @@
 Семинаристы: [Арсений Ашуха](https://www.hse.ru/org/persons/204848606), [Ирина Сапарина](https://github.com/saparina)
 
 ## Программа курса
-* Введение ([лекция 1](2019-fall/lectures/DL19-fall-lecture1-intro.pdf), [семинар 1](seminars/seminar1/DL19-fall-seminar1.ipynb))
+* Введение ([лекция 1](lectures/DL19-fall-lecture1-intro.pdf), [семинар 1](seminars/seminar1/DL19-fall-seminar1.ipynb))
 * Основные концепции
   - Механика нейросетей и backprop ([лекция 2](lectures/DL19-fall-lecture2-backprop.pdf), [семинар 2](seminars/seminar2/DL19-fall-seminar2.ipynb))
-  - Виды архитектур ([лекция 3](DL19-fall-lecture3-models.pdf), [семинар 3](seminars/seminar3/DL19-fall-seminar3.ipynb))
-  - Обучение и регуляризация ([лекция 4](DL19-fall-lecture4-training.pdf), [семинар 4](seminars/seminar4/DL19-fall-seminar4.ipynb))
+  - Виды архитектур ([лекция 3](lectures/DL19-fall-lecture3-models.pdf), [семинар 3](seminars/seminar3/DL19-fall-seminar3.ipynb))
+  - Обучение и регуляризация ([лекция 4](lectures/DL19-fall-lecture4-training.pdf), [семинар 4](seminars/seminar4/DL19-fall-seminar4.ipynb))
 * Продвинутые темы
   - Применения для обработки языка ([лекция 5](lectures/DL19-fall-lecture5-deepnlp.pdf), [семинар 5](seminars/seminar5/DL19-fall-seminar5.ipynb))
   - Adversarial X ([лекция 6](lectures/DL19-fall-lecture6-adversarialX.pdf), [семинар 6](seminars/seminar6/DL19-fall-seminar6.ipynb))
