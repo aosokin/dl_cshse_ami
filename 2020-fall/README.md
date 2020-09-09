@@ -8,7 +8,7 @@
 [О курсе](lectures/DL20-fall-about.pdf): программа, схема оценки
 
 ## Программа курса
-* Введение (лекция 1: [слайды](lectures/DL20-fall-lecture1-intro.pdf), [видео](https://youtu.be/k3QZU5a1oRA))
+* Введение (лекция 1: [слайды](lectures/DL20-fall-lecture1-intro.pdf), [видео](https://youtu.be/k3QZU5a1oRA); [семинар 1](seminars/seminar1/DL20-fall-seminar1.ipynb))
 * Основные концепции
   - Механика нейросетей и backprop
   - Виды архитектур
