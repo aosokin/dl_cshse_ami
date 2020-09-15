@@ -10,7 +10,7 @@
 ## Программа курса
 * Введение (лекция 1: [слайды](lectures/DL20-fall-lecture1-intro.pdf), [видео](https://youtu.be/k3QZU5a1oRA); [семинар 1](seminars/seminar1/DL20-fall-seminar1.ipynb))
 * Основные концепции
-  - Механика нейросетей и backprop
+  - Автоматическое дифференцирование (лекция 2: [слайды](lectures/DL20-fall-lecture2-backprop.pdf), [видео](https://youtu.be/cKMaEpf4MeU)); [семинар 2](seminars/seminar2/DL20-fall-seminar2.ipynb))
   - Виды архитектур
   - Обучение и регуляризация
   - Best practices
