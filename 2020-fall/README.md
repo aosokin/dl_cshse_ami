@@ -10,8 +10,8 @@
 ## Программа курса
 * Введение (лекция 1: [слайды](lectures/DL20-fall-lecture1-intro.pdf), [видео](https://youtu.be/k3QZU5a1oRA); [семинар 1](seminars/seminar1/DL20-fall-seminar1.ipynb))
 * Основные концепции
-  - Автоматическое дифференцирование (лекция 2: [слайды](lectures/DL20-fall-lecture2-backprop.pdf), [видео](https://youtu.be/cKMaEpf4MeU)); [семинар 2](seminars/seminar2/DL20-fall-seminar2.ipynb))
-  - Виды архитектур
+  - Автоматическое дифференцирование (лекция 2: [слайды](lectures/DL20-fall-lecture2-backprop.pdf), [видео](https://youtu.be/cKMaEpf4MeU); [семинар 2](seminars/seminar2/DL20-fall-seminar2.ipynb))
+  - Виды архитектур (лекция 3: [слайды](lectures/DL20-fall-lecture3-models.pdf), [видео](https://youtu.be/Uim4xLhXjRE); [семинар 3](seminars/seminar3/DL20-fall-seminar3.ipynb))
   - Обучение и регуляризация
   - Best practices
 * Продвинутые темы
