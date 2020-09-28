@@ -12,7 +12,7 @@
 * Основные концепции
   - Автоматическое дифференцирование (лекция 2: [слайды](lectures/DL20-fall-lecture2-backprop.pdf), [видео](https://youtu.be/cKMaEpf4MeU); [семинар 2](seminars/seminar2/DL20-fall-seminar2.ipynb))
   - Виды архитектур (лекция 3: [слайды](lectures/DL20-fall-lecture3-models.pdf), [видео](https://youtu.be/Uim4xLhXjRE); [семинар 3](seminars/seminar3/DL20_fall_seminar3.ipynb))
-  - Обучение и регуляризация (лекция 4: [слайды](lectures/DL20-fall-lecture4-models.pdf), [видео](https://youtu.be/kE3AicLd5KE); [семинар 4](seminars/seminar4/DL20_fall_seminar4.ipynb))
+  - Обучение и регуляризация (лекция 4: [слайды](lectures/DL20-fall-lecture4-training.pdf), [видео](https://youtu.be/kE3AicLd5KE); [семинар 4](seminars/seminar4/DL20_fall_seminar4.ipynb))
   - Best practices
 * Продвинутые темы
   - Применения для обработки языка
