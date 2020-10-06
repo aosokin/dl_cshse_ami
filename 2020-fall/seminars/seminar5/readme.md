@@ -6,6 +6,7 @@ TL;DR: нужно найти и исправить всё что не так.
 - Нельзя добавлять параметров в сеть---нельзя менять параметры количество/параметры свёрточных и линейных слоёв.
 - Читать примеры обучения сетки на пайторче/отдельные куски на стековерфлоу против правил.
 - Можно читать документацию к функциям :)
+- Количество эпох увеличивать нельзя. *25 эпох хватит всем*.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aosokin/dl_cshse_ami/blob/master/2020-fall/seminars/seminar5/looking_for_bugs.ipynb)
 
