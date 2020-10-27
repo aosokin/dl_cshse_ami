@@ -16,7 +16,7 @@
   - Best practices (лекция 5: [слайды](lectures/DL20-fall-lecture5-bestpractices.pdf); [семинар 5](seminars/seminar5/looking_for_bugs.ipynb))
 * Продвинутые темы
   - Применения для обработки языка (лекция 6: [слайды](lectures/DL20-fall-lecture6-deepnlp.pdf), [видео](https://youtu.be/ID_sIs_dEbE); [семинар 6](seminars/seminar6/DL20_fall_seminar6.ipynb))
-  - Применения в компьютерном зрении (лекция 7: [слайды](lectures/DL20-fall-lecture7-deepvision.pdf), [видео](https://youtu.be/d5r6k1czEys); [семинар 6](seminars/seminar7/DL20_fall_seminar7.ipynb))
+  - Применения в компьютерном зрении (лекция 7: [слайды](lectures/DL20-fall-lecture7-deepvision.pdf), [видео](https://youtu.be/d5r6k1czEys); [семинар 7](seminars/seminar7/DL20_fall_seminar7.ipynb))
   - Adversarial X
   - Вероятностные модели
   - Дифференцируемое программирование
