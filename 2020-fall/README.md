@@ -17,7 +17,7 @@
 * Продвинутые темы
   - Применения для обработки языка (лекция 6: [слайды](lectures/DL20-fall-lecture6-deepnlp.pdf), [видео](https://youtu.be/ID_sIs_dEbE); [семинар 6](seminars/seminar6/DL20_fall_seminar6.ipynb))
   - Применения в компьютерном зрении (лекция 7: [слайды](lectures/DL20-fall-lecture7-deepvision.pdf), [видео](https://youtu.be/d5r6k1czEys); [семинар 7](seminars/seminar7/DL20_fall_seminar7.ipynb))
-  - Adversarial X (лекция 8: [слайды](lectures/DL20-fall-lecture8-adversarialX.pdf), [видео](https://youtu.be/hCR8iue9yjM); [семинар 7](seminars/seminar8/DL20_fall_seminar8.ipynb))
+  - Adversarial X (лекция 8: [слайды](lectures/DL20-fall-lecture8-adversarialX.pdf), [видео](https://youtu.be/hCR8iue9yjM); [семинар 8](seminars/seminar8/DL20_fall_seminar8.ipynb))
   - Вероятностные модели
   - Дифференцируемое программирование
   - Недифференцируемые модели
