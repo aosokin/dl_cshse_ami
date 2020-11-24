@@ -19,7 +19,7 @@
   - Применения в компьютерном зрении (лекция 7: [слайды](lectures/DL20-fall-lecture7-deepvision.pdf), [видео](https://youtu.be/d5r6k1czEys); [семинар 7](seminars/seminar7/DL20_fall_seminar7.ipynb))
   - Adversarial X (лекция 8: [слайды](lectures/DL20-fall-lecture8-adversarialX.pdf), [видео](https://youtu.be/hCR8iue9yjM); [семинар 8](seminars/seminar8/DL20_fall_seminar8.ipynb))
   - Вероятностные модели (лекция 9: [слайды](lectures/DL20-fall-lecture9-probmodels.pdf), [видео](https://youtu.be/ytCAIvNOGVg); [семинар 9](seminars/seminar9/DL20_fall_seminar9.ipynb))
-  - Дифференцируемое программирование
+  - Дифференцируемое программирование (лекция 10: [слайды](lectures/DL20-fall-lecture10-differentiableprogramming.pdf), [видео](https://youtu.be/ZRBIwoLcsBE); [семинар 10](seminars/seminar10/DL20_fall_seminar10.ipynb))
   - Недифференцируемые модели
   - Ускорение и внедрение моделей
 
