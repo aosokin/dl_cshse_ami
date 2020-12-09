@@ -20,8 +20,8 @@
   - Adversarial X (лекция 8: [слайды](lectures/DL20-fall-lecture8-adversarialX.pdf), [видео](https://youtu.be/hCR8iue9yjM); [семинар 8](seminars/seminar8/DL20_fall_seminar8.ipynb))
   - Вероятностные модели (лекция 9: [слайды](lectures/DL20-fall-lecture9-probmodels.pdf), [видео](https://youtu.be/ytCAIvNOGVg); [семинар 9](seminars/seminar9/DL20_fall_seminar9.ipynb))
   - Дифференцируемое программирование (лекция 10: [слайды](lectures/DL20-fall-lecture10-differentiableprogramming.pdf), [видео](https://youtu.be/ZRBIwoLcsBE); [семинар 10](seminars/seminar10/DL20_fall_seminar10.ipynb))
-  - Недифференцируемые модели  (лекция 11: [слайды](lectures/DL20-fall-lecture11-nondiffnets.pdf), [видео](https://youtu.be/nXvs4Tpzbxs); [семинар 11](seminars/seminar11/DL20_fall_seminar11.ipynb))
-  - Ускорение и внедрение моделей
+  - Недифференцируемые модели (лекция 11: [слайды](lectures/DL20-fall-lecture11-nondiffnets.pdf), [видео](https://youtu.be/nXvs4Tpzbxs); [семинар 11](seminars/seminar11/DL20_fall_seminar11.ipynb))
+  - Гостевая лекция (Ёж): масштабирование глубинного обучения (лекция 12: [слайды](lectures/mryasokin_guest_dlatscale.pdf), [релевантное видео](https://yadi.sk/i/Ihdr-t9tYgsaMA))
 
 ## Disclaimer
 Курс "Глубинное обучение" разрабатывался не как онлайн-курс, а как классический университетский курс с лекциями и семинарами.
