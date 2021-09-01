@@ -10,9 +10,9 @@
 ## Программа курса
 * Введение (лекция 1: [слайды](lectures/DL20-fall-lecture1-intro.pdf), [видео](https://youtu.be/k3QZU5a1oRA); [МДЗ1](homeworks_small/shw1/DL21-fall-shw1.ipynb))
 * Основные концепции
-  - Автоматическое дифференцирование (лекция 2: [слайды](lectures/DL20-fall-lecture2-backprop.pdf), [видео](https://youtu.be/cKMaEpf4MeU); [МДЗ2](homeworks_small/shw1/DL21-fall-shw2.ipynb))
-  - Виды архитектур (лекция 3: [слайды](lectures/DL20-fall-lecture3-models.pdf), [видео](https://youtu.be/Uim4xLhXjRE); [МДЗ3](homeworks_small/shw1/DL21-fall-shw3.ipynb))
-  - Обучение и регуляризация
+  - Автоматическое дифференцирование (лекция 2: [слайды](lectures/DL20-fall-lecture2-backprop.pdf), [видео](https://youtu.be/cKMaEpf4MeU); [МДЗ2](homeworks_small/shw2/DL21-fall-shw2.ipynb))
+  - Виды архитектур (лекция 3: [слайды](lectures/DL20-fall-lecture3-models.pdf), [видео](https://youtu.be/Uim4xLhXjRE); [МДЗ3](homeworks_small/shw3/DL21-fall-shw3.ipynb))
+  - Обучение и регуляризация (лекция 4: [слайды](lectures/DL20-fall-lecture4-training.pdf), [видео](https://youtu.be/kE3AicLd5KE); [семинар 4](homeworks_small/shw4/DL21-fall-shw4.ipynb))
   - Best practices
 * Продвинутые темы
   - Применения для обработки языка
