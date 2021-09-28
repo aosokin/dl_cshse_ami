@@ -15,8 +15,8 @@
   - Обучение и регуляризация (лекция 4: [слайды](../2020-fall/lectures/DL20-fall-lecture4-training.pdf), [видео](https://youtu.be/kE3AicLd5KE); [МДЗ4](homeworks_small/shw4/DL21-fall-shw4.ipynb))
   - Best practices ([семинар про поиск ошибок](homeworks_small/looking_for_bugs/readme.md))
 * Продвинутые темы
+  - Применения в компьютерном зрении ([МДЗ5](homeworks_small/shw5/DL21-fall-shw5.ipynb))
   - Применения для обработки языка
-  - Применения в компьютерном зрении
   - Трансформеры
   - Adversarial X
   - Вероятностные модели
