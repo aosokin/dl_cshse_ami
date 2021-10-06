@@ -13,9 +13,9 @@
   - Автоматическое дифференцирование (лекция 2: [слайды](../2020-fall/lectures/DL20-fall-lecture2-backprop.pdf), [видео](https://youtu.be/cKMaEpf4MeU); [МДЗ2](homeworks_small/shw2/DL21-fall-shw2.ipynb))
   - Виды архитектур (лекция 3: [слайды](../2020-fall/lectures/DL20-fall-lecture3-models.pdf), [видео](https://youtu.be/Uim4xLhXjRE); [МДЗ3](homeworks_small/shw3/DL21-fall-shw3.ipynb))
   - Обучение и регуляризация (лекция 4: [слайды](../2020-fall/lectures/DL20-fall-lecture4-training.pdf), [видео](https://youtu.be/kE3AicLd5KE); [МДЗ4](homeworks_small/shw4/DL21-fall-shw4.ipynb))
-  - Best practices (лекция 5: [слайды](lectures/DL21-fall-lecture5-bestpractices.pdf), [семинар про поиск ошибок](homeworks_small/looking_for_bugs/readme.md))
+  - Best practices (лекция 5: [слайды](lectures/DL21-fall-lecture5-bestpractices.pdf), [видео](https://www.youtube.com/watch?v=a-uDKh-4ixQ); [семинар про поиск ошибок](homeworks_small/looking_for_bugs/readme.md))
 * Продвинутые темы
-  - Применения в компьютерном зрении (лекция 6: [слайды](lectures/DL21-fall-lecture6-deepvision.pdf), [МДЗ5](homeworks_small/shw5/DL21-fall-shw5.ipynb))
+  - Применения в компьютерном зрении (лекция 6: [слайды](lectures/DL21-fall-lecture6-deepvision.pdf), [видео](https://www.youtube.com/watch?v=FrkuOflT61M); [МДЗ5](homeworks_small/shw5/DL21-fall-shw5.ipynb))
   - Применения для обработки языка (лекция 7: [слайды](lectures/DL21-fall-lecture7-deepnlp.pdf), [МДЗ6](homeworks_small/shw6/DL21-fall-shw6.ipynb))
   - Трансформеры
   - Adversarial X
