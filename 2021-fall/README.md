@@ -17,7 +17,7 @@
 * Продвинутые темы
   - Применения в компьютерном зрении (лекция 6: [слайды](lectures/DL21-fall-lecture6-deepvision.pdf), [видео](https://www.youtube.com/watch?v=FrkuOflT61M); [МДЗ5](homeworks_small/shw5/DL21-fall-shw5.ipynb))
   - Применения для обработки языка (лекция 7: [слайды](lectures/DL21-fall-lecture7-deepnlp.pdf), [МДЗ6](homeworks_small/shw6/DL21-fall-shw6.ipynb))
-  - Трансформеры
+  - Трансформеры (лекция 8: [слайды](lectures/DL21-fall-lecture8-transformers.pdf))
   - Adversarial X
   - Вероятностные модели
   - Дифференцируемое программирование
