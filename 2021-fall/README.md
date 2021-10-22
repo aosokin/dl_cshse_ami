@@ -16,8 +16,8 @@
   - Best practices (лекция 5: [слайды](lectures/DL21-fall-lecture5-bestpractices.pdf), [видео](https://www.youtube.com/watch?v=a-uDKh-4ixQ); [семинар про поиск ошибок](homeworks_small/looking_for_bugs/readme.md))
 * Продвинутые темы
   - Применения в компьютерном зрении (лекция 6: [слайды](lectures/DL21-fall-lecture6-deepvision.pdf), [видео](https://www.youtube.com/watch?v=FrkuOflT61M); [МДЗ5](homeworks_small/shw5/DL21-fall-shw5.ipynb))
-  - Применения для обработки языка (лекция 7: [слайды](lectures/DL21-fall-lecture7-deepnlp.pdf), [МДЗ6](homeworks_small/shw6/DL21-fall-shw6.ipynb))
-  - Трансформеры (лекция 8: [слайды](lectures/DL21-fall-lecture8-transformers.pdf))
+  - Применения для обработки языка (лекция 7: [слайды](lectures/DL21-fall-lecture7-deepnlp.pdf), [видео](https://www.youtube.com/watch?v=IyuHDYV13EA); [МДЗ6](homeworks_small/shw6/DL21-fall-shw6.ipynb))
+  - Трансформеры (лекция 8: [слайды](lectures/DL21-fall-lecture8-transformers.pdf), [видео](https://www.youtube.com/watch?v=49kRaELWdt4))
   - Adversarial X
   - Вероятностные модели
   - Дифференцируемое программирование
