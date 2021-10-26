@@ -16,9 +16,9 @@
   - Best practices (лекция 5: [слайды](lectures/DL21-fall-lecture5-bestpractices.pdf), [семинар про поиск ошибок](homeworks_small/looking_for_bugs/readme.md))
 * Продвинутые темы
   - Применения в компьютерном зрении (лекция 6: [слайды](lectures/DL21-fall-lecture6-deepvision.pdf), [МДЗ5](homeworks_small/shw5/DL21-fall-shw5.ipynb))
-  - Применения для обработки языка
+  - Применения для обработки языка [МДЗ6](homeworks_small/shw6/DL21-fall-shw6.ipynb)
   - Трансформеры
-  - Adversarial X
+  - Adversarial X [МДЗ7](homeworks_small/shw7/DL21-fall-shw7.ipynb)
   - Вероятностные модели
   - Дифференцируемое программирование
   - Недифференцируемые модели
