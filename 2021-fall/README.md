@@ -18,7 +18,7 @@
   - Применения в компьютерном зрении (лекция 6: [слайды](lectures/DL21-fall-lecture6-deepvision.pdf), [МДЗ5](homeworks_small/shw5/DL21-fall-shw5.ipynb))
   - Применения для обработки языка [МДЗ6](homeworks_small/shw6/DL21-fall-shw6.ipynb)
   - Трансформеры (лекция 8: [слайды](lectures/DL21-fall-lecture8-transformers.pdf), [видео](https://www.youtube.com/watch?v=49kRaELWdt4))
-  - Adversarial X (лекция 9: [слайды](lectures/DL21-fall-lecture9-adversarialX.pdf); [МДЗ7](homeworks_small/shw7/DL21-fall-shw7.ipynb))
+  - Adversarial X (лекция 9: [слайды](lectures/DL21-fall-lecture9-adversarialX.pdf), [видео](https://youtu.be/uLq1R8oI_lo); [МДЗ7](homeworks_small/shw7/DL21-fall-shw7.ipynb))
   - Вероятностные модели
   - Дифференцируемое программирование
   - Недифференцируемые модели
