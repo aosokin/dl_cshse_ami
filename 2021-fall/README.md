@@ -19,8 +19,8 @@
   - Применения для обработки языка (лекция 7: [слайды](https://github.com/aosokin/dl_cshse_ami/blob/691b3578d1b826c0fa29bbdc2db7aa77449a46b2/2021-fall/lectures/DL21-fall-lecture7-deepnlp.pdf), [видео](https://www.youtube.com/watch?v=IyuHDYV13EA); [МДЗ6](homeworks_small/shw6/DL21-fall-shw6.ipynb))
   - Трансформеры (лекция 8: [слайды](lectures/DL21-fall-lecture8-transformers.pdf), [видео](https://www.youtube.com/watch?v=49kRaELWdt4))
   - Adversarial X (лекция 9: [слайды](lectures/DL21-fall-lecture9-adversarialX.pdf), [видео](https://youtu.be/uLq1R8oI_lo); [МДЗ7](homeworks_small/shw7/DL21-fall-shw7.ipynb))
-  - Вероятностные модели (лекция 9: [слайды](lectures/DL21-fall-lecture10-probmodels.pdf); [МДЗ8](homeworks_small/shw8/DL21-fall-shw8.ipynb))
-  - Дифференцируемое программирование
+  - Вероятностные модели (лекция 10: [слайды](lectures/DL21-fall-lecture10-probmodels.pdf), [видео](https://youtu.be/hXXa5rja5Cc); [МДЗ8](homeworks_small/shw8/DL21-fall-shw8.ipynb))
+  - Дифференцируемое программирование (лекция 11: [слайды](lectures/DL21-fall-lecture11-differentiableprogramming.pdf))
   - Недифференцируемые модели
 
 ## Disclaimer
