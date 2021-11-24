@@ -20,8 +20,9 @@
   - Трансформеры (лекция 8: [слайды](lectures/DL21-fall-lecture8-transformers.pdf), [видео](https://www.youtube.com/watch?v=49kRaELWdt4))
   - Adversarial X (лекция 9: [слайды](lectures/DL21-fall-lecture9-adversarialX.pdf), [видео](https://youtu.be/uLq1R8oI_lo); [МДЗ7](homeworks_small/shw7/DL21-fall-shw7.ipynb))
   - Вероятностные модели (лекция 10: [слайды](lectures/DL21-fall-lecture10-probmodels.pdf), [видео](https://youtu.be/hXXa5rja5Cc); [МДЗ8](homeworks_small/shw8/DL21-fall-shw8.ipynb))
-  - Дифференцируемое программирование (лекция 11: [слайды](lectures/DL21-fall-lecture11-differentiableprogramming.pdf); [МДЗ9](homeworks_small/shw9/DL21-fall-shw9.ipynb))
-  - Недифференцируемые модели
+  - Дифференцируемое программирование (лекция 11: [слайды](lectures/DL21-fall-lecture11-differentiableprogramming.pdf), [видео](https://youtu.be/t7N0oji9-NE); [МДЗ9](homeworks_small/shw9/DL21-fall-shw9.ipynb))
+  - Недифференцируемые модели (лекция 12: [слайды](lectures/DL21-fall-lecture12-nondiffnets.pdf))
+  - Приглашенная лекция
 
 ## Disclaimer
 Курс "Глубинное обучение" разрабатывался не как онлайн-курс, а как классический университетский курс с лекциями и семинарами.
